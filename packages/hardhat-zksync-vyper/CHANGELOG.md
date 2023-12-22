@@ -1,5 +1,12 @@
 # @matterlabs/hardhat-zksync-vyper
 
+## [1.0.6](https://github.com/dutterbutter/hardhat-zksync/compare/@matterlabs/hardhat-zksync-vyper-v1.0.5...@matterlabs/hardhat-zksync-vyper-v1.0.6) (2023-12-22)
+
+
+### Bug Fixes
+
+* **docs:** update readme files ([#612](https://github.com/dutterbutter/hardhat-zksync/issues/612)) ([682338e](https://github.com/dutterbutter/hardhat-zksync/commit/682338e60f52021206325ff6eeec2c394a118642))
+
 ## [1.0.5](https://github.com/matter-labs/hardhat-zksync/compare/@matterlabs/hardhat-zksync-vyper@1.0.4...@matterlabs/hardhat-zksync-vyper-v1.0.5) (2023-12-22)
 
 
